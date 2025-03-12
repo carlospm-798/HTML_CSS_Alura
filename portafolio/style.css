@@ -60,6 +60,10 @@ body {
     text-decoration: none;
     color: #F6F6f6;
     border: 2px solid #22D4FD;
+
+    display: flex;
+    justify-content: center;
+    gap: 10px;
 }
 
 .presentacion__enlaces__subtitulo {
